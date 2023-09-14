@@ -1,6 +1,8 @@
 ### Hi there 👋
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=S20Y20N99&fontSize=90)
+
+## 👯 [Yameokja Uddae : 맛집 비교 사이트]
 <!--
 **S20Y20N99/S20Y20N99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
