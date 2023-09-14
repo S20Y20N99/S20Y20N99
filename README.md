@@ -1,6 +1,6 @@
 <!--### Hi there  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=130&section=header&text=SEOYOUNG&fontSize=50&fontAlignY=70&fontColor=8C8C8C&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYOUNG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
 
 ## 
 
@@ -14,7 +14,7 @@
 #### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
 ## 
-### 💻Skill
+### 💻SKILL
 #### Language
 <img src="https://img.shields.io/badge/Java-FFE400?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 #### DB
@@ -26,7 +26,6 @@
 
 
 ## 
-### SEOYOUNG's Github stats
 ![SEOYOUNG's Github stats](https://github-readme-stats.vercel.app/api?username=S20Y20N99&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
 
