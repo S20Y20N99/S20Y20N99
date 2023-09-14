@@ -5,7 +5,7 @@
 ## 
 
 ### 🔭 I’m currently working on ...
-#### - [Yameokja Uddae] : 맛집 비교 사이트
+#### - [Yameokja Uddae](https://github.com/S20Y20N99/FinalProject_sy.git) : 맛집 비교 사이트 
 
 ## 
 ### 👋INTRODUCTION
