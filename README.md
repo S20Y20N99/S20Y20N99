@@ -8,13 +8,13 @@
 #### - [Yameokja Uddae](https://github.com/S20Y20N99/FinalProject_sy.git) : 맛집 비교 사이트 
 
 ## 
-### 👋INTRODUCTION
+### 👋 INTRODUCTION
 #### NickName : Seoyoung
 #### Email : u.seoyoung.u@gmail.com
 #### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
 ## 
-### 💻SKILL
+### 💻 SKILL
 #### Language
 <img src="https://img.shields.io/badge/Java-FFE400?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 #### DB
