@@ -1,17 +1,14 @@
 <!--### Hi there  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYOUNG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYEONG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
+
+### 👋 안녕하세요! 유서영입니다 🤗
+#### Email : uu.seoyeong@gmail.com
+#### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
 ## 
-
 ### 🔭 I’m currently working on ...
 #### - [Yameokja Uddae](https://github.com/S20Y20N99/FinalProject_sy.git) : 맛집 비교 사이트 
-
-## 
-### 👋 INTRODUCTION
-#### NickName : Seoyoung
-#### Email : u.seoyoung.u@gmail.com
-#### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
 ## 
 ### 💻 SKILL
