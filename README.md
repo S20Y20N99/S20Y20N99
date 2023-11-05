@@ -3,18 +3,21 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYEONG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
   
-## 👋 안녕하세요! 유서영입니다 🤗
+<h2>👋 안녕하세요! 유서영입니다 🤗</h2>
+
 #### Email : uu.seoyeong@gmail.com
 #### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
-## 
-### 🔭 PROJECT
+<br>
+<h2>🔭 PROJECT</h2>
+
 #### - [Yameokja Uddae](https://github.com/S20Y20N99/FinalProject_sy.git) : 맛집 비교 사이트 
 
-## 
-### 💻 SKILL
+<br>
+<h2>💻 SKILL</h2>
+
 #### Language
-<img src="https://img.shields.io/badge/Java-FFE400?style=flat&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 #### DB
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 #### Tool
@@ -22,8 +25,8 @@
 #### Ect
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
-
-## 
+<br>
+<h2></h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S20Y20N99&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=S20Y20N99&show_icons=true">
 </div>
