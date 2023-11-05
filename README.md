@@ -1,13 +1,14 @@
 <!--### Hi there  -->
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYEONG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
-
+  
 ## 👋 안녕하세요! 유서영입니다 🤗
 #### Email : uu.seoyeong@gmail.com
 #### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
 
 ## 
-### 🔭 I’m currently working on ...
+### 🔭 PROJECT
 #### - [Yameokja Uddae](https://github.com/S20Y20N99/FinalProject_sy.git) : 맛집 비교 사이트 
 
 ## 
@@ -23,8 +24,9 @@
 
 
 ## 
-![SEOYOUNG's Github stats](https://github-readme-stats.vercel.app/api?username=S20Y20N99&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S20Y20N99&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=S20Y20N99&show_icons=true">
+</div>
 
 <!--
 **S20Y20N99/S20Y20N99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
