@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SEOYEONG&fontSize=50&fontAlignY=50&fontColor=f7f7f7&)
   
-<h2>👋 안녕하세요! 유서영입니다 🤗</h2>
+<h2>👋🤗</h2>
 
 #### Email : uu.seoyeong@gmail.com
 #### Blog : [u_szero24.t-story.com](https://u_szero24.t-story.com)
